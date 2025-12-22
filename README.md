@@ -1,15 +1,8 @@
 <h1 align="center">Olá 👋 Tudo bem?</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Einer-Sulivan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Einer-Sulivan&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Einer-Sulivan&theme=dracula&hide_border=false" height="150" alt="Streak Stats" />
-  <img src="https://github-profile-trophy.vercel.app?username=Einer-Sulivan&theme=dracula&no-bg=false&no-frame=false" height="150" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Einer-Sulivan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="statsgraph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Einer-Sulivan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -36,5 +29,5 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Einer-Sulivan/Einer-Sulivan/output/pacman-contribution-graph.svg" alt="Pacman Graph" />
+  <img src="https://raw.githubusercontent.com/Einer-Sulivan/Einer-Sulivan/output/dist/pacman-contribution-graph.svg" alt="Pacman Graph" />
 </div>
