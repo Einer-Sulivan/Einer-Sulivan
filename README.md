@@ -29,5 +29,8 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Einer-Sulivan/Einer-Sulivan/output/pacman-contribution-graph.svg" alt="Pacman Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Einer-Sulivan/Einer-Sulivan/output/pacman-contribution-graph-dark.svg">
+    <img src="https://raw.githubusercontent.com/Einer-Sulivan/Einer-Sulivan/output/pacman-contribution-graph.svg" alt="Pacman Graph" />
+  </picture>
 </div>
